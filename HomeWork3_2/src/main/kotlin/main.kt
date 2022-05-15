@@ -1,5 +1,5 @@
 fun main() {
-    println(commission("Maestro",3000,76000))
+    println(commission("Maestro",3000,15000))
 }
 
 fun commission (typeCard: String = "Vk Pay", amountThisMounth: Int = 0, transferAmount: Int): Int {
